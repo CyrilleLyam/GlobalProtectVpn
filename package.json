@@ -4,7 +4,7 @@
     "private": true,
     "description": "A GTK4 application built with GTKX",
     "license": "MIT",
-    "author": "seanglay <seanglay.seangly@techostartup.center>",
+    "author": "seanglay",
     "type": "module",
     "scripts": {
         "dev": "gtkx dev",
